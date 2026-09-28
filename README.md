@@ -81,14 +81,6 @@ I enjoy working across the entire stack — from interfaces and UX to APIs, data
 
 # 📊 GitHub Statistics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=waletrys-afk&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waletrys-afk&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180" />
-
-</div>
-
 <br>
 
 <div align="center">
